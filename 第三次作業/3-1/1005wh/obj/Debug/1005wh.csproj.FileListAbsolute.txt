@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\1005wh\1005wh\bin\Debug\1005wh.exe.config
+C:\Users\Administrator\source\repos\1005wh\1005wh\bin\Debug\1005wh.exe
+C:\Users\Administrator\source\repos\1005wh\1005wh\bin\Debug\1005wh.pdb
+C:\Users\Administrator\source\repos\1005wh\1005wh\obj\Debug\1005wh.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\1005wh\1005wh\obj\Debug\_1005wh.searchbtn.resources
+C:\Users\Administrator\source\repos\1005wh\1005wh\obj\Debug\_1005wh.Properties.Resources.resources
+C:\Users\Administrator\source\repos\1005wh\1005wh\obj\Debug\1005wh.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\1005wh\1005wh\obj\Debug\1005wh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\1005wh\1005wh\obj\Debug\1005wh.exe
+C:\Users\Administrator\source\repos\1005wh\1005wh\obj\Debug\1005wh.pdb

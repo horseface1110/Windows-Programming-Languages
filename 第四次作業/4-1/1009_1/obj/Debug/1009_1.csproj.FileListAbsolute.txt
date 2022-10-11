@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\1009_1\1009_1\bin\Debug\1009_1.exe.config
+C:\Users\Administrator\source\repos\1009_1\1009_1\bin\Debug\1009_1.exe
+C:\Users\Administrator\source\repos\1009_1\1009_1\bin\Debug\1009_1.pdb
+C:\Users\Administrator\source\repos\1009_1\1009_1\obj\Debug\1009_1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\1009_1\1009_1\obj\Debug\_1009_1.Form1.resources
+C:\Users\Administrator\source\repos\1009_1\1009_1\obj\Debug\_1009_1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\1009_1\1009_1\obj\Debug\1009_1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\1009_1\1009_1\obj\Debug\1009_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\1009_1\1009_1\obj\Debug\1009_1.exe
+C:\Users\Administrator\source\repos\1009_1\1009_1\obj\Debug\1009_1.pdb
