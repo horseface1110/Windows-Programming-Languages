@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\1024_2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\1024_2.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\_1024_2.Form1.resources
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\_1024_2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\1024_2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\1024_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\1024_2\1024_2\bin\Debug\1024_2.exe.config
+C:\Users\Administrator\source\repos\1024_2\1024_2\bin\Debug\1024_2.exe
+C:\Users\Administrator\source\repos\1024_2\1024_2\bin\Debug\1024_2.pdb
+C:\Users\Administrator\source\repos\1024_2\1024_2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\1024_2\1024_2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\1024_2.exe
+C:\Users\Administrator\source\repos\1024_2\1024_2\obj\Debug\1024_2.pdb

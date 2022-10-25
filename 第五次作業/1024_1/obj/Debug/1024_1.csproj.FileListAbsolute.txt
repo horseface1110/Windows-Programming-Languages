@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\1024_1\1024_1\bin\Debug\1024_1.exe.config
+C:\Users\Administrator\source\repos\1024_1\1024_1\bin\Debug\1024_1.exe
+C:\Users\Administrator\source\repos\1024_1\1024_1\bin\Debug\1024_1.pdb
+C:\Users\Administrator\source\repos\1024_1\1024_1\obj\Debug\1024_1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\1024_1\1024_1\obj\Debug\_1024_1.Form1.resources
+C:\Users\Administrator\source\repos\1024_1\1024_1\obj\Debug\_1024_1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\1024_1\1024_1\obj\Debug\1024_1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\1024_1\1024_1\obj\Debug\1024_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\1024_1\1024_1\obj\Debug\1024_1.exe
+C:\Users\Administrator\source\repos\1024_1\1024_1\obj\Debug\1024_1.pdb
