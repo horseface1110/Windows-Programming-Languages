@@ -1,0 +1,11 @@
+C:\Users\oloom\source\repos\1030_1\1030_1\bin\Debug\1030_1.exe.config
+C:\Users\oloom\source\repos\1030_1\1030_1\bin\Debug\1030_1.exe
+C:\Users\oloom\source\repos\1030_1\1030_1\bin\Debug\1030_1.pdb
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\1030_1.csprojAssemblyReference.cache
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\_1030_1.Form1.resources
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\_1030_1.Properties.Resources.resources
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\1030_1.csproj.GenerateResource.cache
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\1030_1.csproj.CoreCompileInputs.cache
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\1030_1.exe
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\1030_1.pdb
+C:\Users\oloom\source\repos\1030_1\1030_1\obj\Debug\_1030_1.Form2.resources
